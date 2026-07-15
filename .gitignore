@@ -1,0 +1,50 @@
+# =====================
+# Virtual Environment
+# =====================
+.venv/
+venv/
+ENV/
+
+# =====================
+# Python cache
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+
+# =====================
+# IDE
+# =====================
+.vscode/
+.idea/
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# ML / Training outputs
+# =====================
+runs/
+*.pt
+*.pth
+*.onnx
+
+# =====================
+# Data 
+# =====================
+test/
+Weather-classification.folder/
+Weather-classification/
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# Jupyter
+# =====================
+.ipynb_checkpoints/
